@@ -1,0 +1,2 @@
+# Singleton-y-scriptable-objects
+ 
